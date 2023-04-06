@@ -1,0 +1,3 @@
+SpeechRecognition
+ffmpeg
+aiogram
